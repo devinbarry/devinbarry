@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+🔭 Check out my profile: https://devinbarry.github.io/
+
 <!--
 **devinbarry/devinbarry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
